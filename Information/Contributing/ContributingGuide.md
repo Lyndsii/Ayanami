@@ -6,7 +6,7 @@ Table of Contents
 * [Explanation](#Explanation)
 * [Template](#Template)
 * [Example](#Example)
-* [Rules and Guidelines](#Rules and Guidelines)
+* [Rules and Guidelines](#Rules-and-Guidelines)
 
 
 # Explanation
