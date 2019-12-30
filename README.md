@@ -1,4 +1,5 @@
 Information about my discord bot, Ayanami.
+
 Using Ayanami
 ======
 1. In order for Ayanami to do anything, you have to invite her to the discord server of your choice (make sure you have the `Manage Server` permission), editing the permissions she requests may prevent some commands from being usable so please refrain from doing so!
