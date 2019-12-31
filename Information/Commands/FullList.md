@@ -278,6 +278,12 @@ Sends an image of a neko-girl.
 Sends information about a specified anime
 * `{prefix}anime {anime}`
 
+### `azurlane`
+
+Sends information about a specified Azur Lane ship.
+* `{prefix}azurlane {ship ID}`
+
+
 ## Animals
 
 Sends randomised images of cute animals!
