@@ -500,7 +500,8 @@ Sends a random tag.
 
 ## Marriage
 
-Simulates the joys of being married to a person!
+Simulates the joys of being married to a person! 
+`Please note that I've disabled all of these commands.`
 
 ### `marry`
 
