@@ -1,0 +1,12 @@
+{
+  "restart": {
+    "exclude": [
+      "^commands/",
+      "^events/"
+    ],
+    "include": [
+      "\\.txt"
+    ]
+  },
+  "throttle": 100
+}
